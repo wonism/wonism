@@ -10,6 +10,6 @@
 
 ---
 
-- 🧑🏻‍💻  I'm currently working at [@toss](https://github.com/toss) as Front-end developer.
+- 🧑🏻‍💻  I'm currently working at [@tossinvest](https://github.com/tossinvest) as Front-end developer.
 - 💙 I like [React](https://reactjs.org/) and [RxJS](https://rxjs.dev/).
 - 📫 How to reach me: yocee57@gmail.com
